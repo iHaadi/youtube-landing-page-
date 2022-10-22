@@ -1,0 +1,50 @@
+p{
+    font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+.vid-title{
+    
+    font-size: 20px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 24px;
+    margin: 5px 0px ;
+}
+
+.vid-stats{
+    
+    font-size: 14px;
+    color: grey;
+    margin: 0px;
+}
+
+.vid-author{
+    
+    font-size: 14px;
+    color: gray;
+    margin-top: 15px;
+}
+
+.vid-description{
+    
+    font-size: 14px;
+    color: grey;
+    width: 300px;
+    line-height: 24px;
+}
+
+.apple-text{
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: rgb(240, 51, 51);
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    margin-top: 40px;
+
+}
+
+.und:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
